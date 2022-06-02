@@ -1,14 +1,12 @@
 # cmi.io
 
-(Plantilla de Proyecto) 
-
 ## Creación Multimedia Interactiva (Fac. Bellas artes)
 
 **Autor: Lucía Fernández García** 
 
 **Título: Esto es un porfolio** 
 
-**Resumen:**
+**Resumen: Porfolio interactivo realizado para la asignatura de Creación Multimedia Interactiva. Bellas Artes UGR**
 
 **Licencia: (creative Commons)**
 
