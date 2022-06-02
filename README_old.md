@@ -4,9 +4,9 @@
 
 ## Creación Multimedia Interactiva (Fac. Bellas artes)
 
-**Autor:** 
+**Autor: Lucía Fernández García** 
 
-**Título:** 
+**Título: Esto es un porfolio** 
 
 **Resumen:**
 
