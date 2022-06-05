@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## Esto es un porfolio
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,15 +8,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Esto es un porfolio
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Lucía Fernández García
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto se basa en la realización de un porfolio en el que el usuario puede interactuar con distintos elementos para poder escoger qué información ver a su gusto, pudiendo conocer también a mí como artista además de mis trabajos.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Porfolio
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
@@ -24,13 +24,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome y también en moviles android a través de chrome también. En estos no da error salvo a la hora de ver la información que se despliega al pasar el cursor sobre determinados elementos, gesto que no se puede realizar en este tipo de dispositivos.
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 5,31MB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 7/06/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
