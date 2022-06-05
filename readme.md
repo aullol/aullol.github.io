@@ -24,7 +24,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   Google Chrome y también en moviles android a través de chrome también. En estos no da error salvo a la hora de ver la información que se despliega al pasar el cursor sobre determinados elementos, gesto que no se puede realizar en este tipo de dispositivos.
+**Probado en:**   Google Chrome y también en moviles Android a través de Chrome también. En estos no da error salvo a la hora de ver la información que se despliega al pasar el cursor sobre determinados elementos, gesto que no se puede realizar en este tipo de dispositivos.
 
 **Tamaño proyecto:** 5,31MB
 
@@ -47,7 +47,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+En la introducción aparece el logo y una opción para saltarla, tras ella llegamos directamente al menú principal. Ahí encontramos cuatro botones distintos: iniciar, extras, créditos y galería.
+
+Iniciar: Es la parte principal del porfolio, vemos un tablón de corcho interactivos, dependiendo de donde pinchemos podremos acceder a una parte distinta del porfolio. En sobre mí aparecen algunos datos de información para conocerme mejor. En el tablón vemos también una foto polaroid, al clicar en ella se puede ver una foto de mí. Las demás opciones son para ver mis trabajos de clase, personales (hay muy pocos) y algunas fotografías hechas en los dos últimos años. Finalmente,hay una opción más que nos dirige a un quizz, al acertarlo nos lleva directamente a los Extras.
 
 
 
