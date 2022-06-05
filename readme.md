@@ -51,6 +51,7 @@ En la introducción aparece el logo y una opción para saltarla, tras ella llega
 
 Iniciar: Es la parte principal del porfolio, vemos un tablón de corcho interactivos, dependiendo de donde pinchemos podremos acceder a una parte distinta del porfolio. En sobre mí aparecen algunos datos de información para conocerme mejor. En el tablón vemos también una foto polaroid, al clicar en ella se puede ver una foto de mí. Las demás opciones son para ver mis trabajos de clase, personales (hay muy pocos) y algunas fotografías hechas en los dos últimos años. Finalmente,hay una opción más que nos dirige a un quizz, al acertarlo nos lleva directamente a los Extras.
 
+Extras: Cuando llegamos a esta escena lo primero que vemos es que tenemos que introducir un código antes de poder acceder al contenido. Una vez resuelto (es la respuesta del quizz) nos encontramos con el tablón visto en el inicio pero también más elementos, dependiendo de a donde dirijamos el cursor, pasará una cosa u otra. Al clicar en el tablón, nos lleva al inicio de nuevo. Si lo hacemos en el móvil, veremos apps que acostumbro a usar, entre ellas tiktok, pudiendo ver un video grabado por mi. Por otro lado al clicar en el lapicero, el usuario podrá ver los materiales que más uso.
 
 
 ### 2.2. Esquema de navegación 
