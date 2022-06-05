@@ -137,6 +137,7 @@ He cuidado mucho que todo funcionara como quería, la mayor parte de fallos que 
 - Hippani Animator 5.1
 - Procreate
 - Adobe Photoshop 2020
+- Clip Studio Paint
 
 
 
