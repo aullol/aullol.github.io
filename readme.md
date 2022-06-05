@@ -86,7 +86,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a un público general que desee ver mis trabajos ya que no buscaba realizar un porfolio profesional.
 
 
 
@@ -106,7 +106,7 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+He cuidado mucho que todo funcionara como quería, la mayor parte de fallos que encuentro son estéticos y por pura falta de tiempo. Quizás habría estado bien implementar un quizz de más preguntas en el que poder introducir el contador de fallos o aciertos, sin embargo prefería pulir lo demás. 
 
 
 
@@ -128,14 +128,15 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  Toda es música libre de uso sacada de YouTube.
+* Imágenes:  Imágenes propias, todo está dibujado o fotografiado por mí.
+* Tipografía: Arial Black y Candal (disponible en Google Fonts)
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Procreate
+- Adobe Photoshop 2020
 
 
 
@@ -143,4 +144,4 @@ Este  proyecto es interesante porque ...
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2022
