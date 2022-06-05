@@ -53,6 +53,10 @@ Iniciar: Es la parte principal del porfolio, vemos un tablón de corcho interact
 
 Extras: Cuando llegamos a esta escena lo primero que vemos es que tenemos que introducir un código antes de poder acceder al contenido. Una vez resuelto (es la respuesta del quizz) nos encontramos con el tablón visto en el inicio pero también más elementos, dependiendo de a donde dirijamos el cursor, pasará una cosa u otra. Al clicar en el tablón, nos lleva al inicio de nuevo. Si lo hacemos en el móvil, veremos apps que acostumbro a usar, entre ellas tiktok, pudiendo ver un video grabado por mi. Por otro lado al clicar en el lapicero, el usuario podrá ver los materiales que más uso.
 
+Créditos: Esta escena se basa en un texto que desciende hacia abajo indicando mi nombre, la asignatura y la fecha, simplemente.
+
+Galería: Es una escena que va a parte, me planteaba quitarla pues ni siquiera estaá actualizada ya que en ella se ven los bocetos de las ilustraciones finales, el video que grabé para tiktok y un speedpaint de 2018.
+
 
 ### 2.2. Esquema de navegación 
 
@@ -83,7 +87,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Cuando se nos planteó que el proyecto se iría realizando a lo largo de la asignatura y que podía ser un videojuego o porfolio, supe que querñia ir a por la segunda opción puesto que al no estar demasiado interesada en el mundo de los videojuegos me iba a costar mucho idear una propuesta que me motivase. sin embargo, quería que mi porfolio fuese muy interactivo, que el espectador pudiera moverse a su gusto e ir descubriendo más cosas conforme pasaba el tiempo. Por eso mismo elegí que el índice del porfolio fuese un tablon de corcho con el que hay que interactuar dependiendo de lo que uno quiera ver, y el quizz que oculta los extras, que son a su vez lo más interactivos que he podido añaden más interacción que hace que mi trabajo se aleje de ser una mera galería de imágenes.
 
 
 
