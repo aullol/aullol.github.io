@@ -123,7 +123,7 @@ He cuidado mucho que todo funcionara como quería, la mayor parte de fallos que 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Estoy bastante satisfecha con el resultado final porque no me veía capaz a principios de cuarimestre de conseguir programar y elaborar un proyecto propio, por muy simple que no fuera. Estoy muy contenta con que tenga una estética definida y que haya podido conseguir hacer la idea que tuve desde el rpincipio, que era poder crear un tablón de corcho interactivo. No me gusta haber tenido que poner pocos trabajos personales o que algunas ilustraciones no estén bien terminadas, como las de los extras, pero son cosas que siempre puedo mejorar de cara al futuro. Me he sorprendido a mi misma (me pasa por tener las espectativas bajsa) y aunque no sea un trabajo excepcional, creo que no está muy mal.
 
 
 
@@ -132,10 +132,6 @@ He cuidado mucho que todo funcionara como quería, la mayor parte de fallos que 
 
 
 # 5 Referencias 
-
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
@@ -153,8 +149,6 @@ He cuidado mucho que todo funcionara como quería, la mayor parte de fallos que 
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
+![image](https://user-images.githubusercontent.com/106731746/172247578-d9c37497-872b-496c-9d2f-9d635a521f50.png)
 
 Junio 2022
