@@ -22,7 +22,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
-![logo](https://user-images.githubusercontent.com/106731746/172243207-2da8c847-1ee9-4c5c-860c-86187161b711.png)
+
+![logo](https://user-images.githubusercontent.com/106731746/172243514-caed2087-fda2-4665-8e6b-dd73efed10a9.png)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
@@ -66,7 +67,8 @@ Galería: Es una escena que va a parte, me planteaba quitarla pues ni siquiera e
 
 
 
-![esquema de navegación](https://user-images.githubusercontent.com/106731746/172243343-7cff5c0a-5d46-4a85-8fc7-2f42e0412824.jpg)
+![Ilustración_sin_título (1)](https://user-images.githubusercontent.com/106731746/172243586-1f0e8745-491e-4a2a-82df-4fa266ea049f.jpg)
+
 
 
 
@@ -97,7 +99,7 @@ Cuando se nos planteó que el proyecto se iría realizando a lo largo de la asig
 
 **Publico / audiencia**
 
-- Orientado a un público general que desee ver mis trabajos ya que no buscaba realizar un porfolio profesional.
+- Orientado a un público general que desee ver mis trabajos ya que no buscaba realizar un porfolio estrictamente profesional.
 
 
 
