@@ -60,9 +60,10 @@ Galería: Es una escena que va a parte, me planteaba quitarla pues ni siquiera e
 
 ### 2.2. Esquema de navegación 
 
+![Ilustración_sin_título (1)](https://user-images.githubusercontent.com/106731746/172239892-641b8270-d888-4e8c-b7e2-ec524369134e.jpg)
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+
 
 
 
