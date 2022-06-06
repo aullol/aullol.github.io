@@ -19,9 +19,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Porfolio
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
+**Logotipo** : 
 
 ![logo2](https://user-images.githubusercontent.com/106731746/172243768-e747ab06-df3d-41b0-8bfd-0291682373be.png)
 
