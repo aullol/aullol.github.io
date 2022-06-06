@@ -23,7 +23,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 (insertar imágenes a resolucion de 100px alto)
 
-![logo](https://user-images.githubusercontent.com/106731746/172243514-caed2087-fda2-4665-8e6b-dd73efed10a9.png)
+![logo2](https://user-images.githubusercontent.com/106731746/172243768-e747ab06-df3d-41b0-8bfd-0291682373be.png)
+
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
@@ -70,7 +71,7 @@ Galería: Es una escena que va a parte, me planteaba quitarla pues ni siquiera e
 ![Ilustración_sin_título (1)](https://user-images.githubusercontent.com/106731746/172243586-1f0e8745-491e-4a2a-82df-4fa266ea049f.jpg)
 
 
-
+Desde todas las escenas se puede volver al menú principal, y los extras y el porfolio están ligados entre ellos. A los extras se puede acceder directamente desde el menú o al resolver el quizz al que se llega desde el porfolio. Por otro lado, desde los extras se puede ir directamente al porfolio clicando en el tablón de corcho, y desde la app de cámara en el óvil, se puede ir al apartado de fotografía (dato que olvidé poner en el esquema de navegación)
 
 
 
@@ -86,8 +87,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+A decir verdad, en prinicpio no me he basado en ninguna influencia clara para este trabajo, como mucho habrán sido trabajos que tenía asimilados y que me han influenciado pero que yo no recuerde ya haber visto. Si bien es cierto que en clase estuvimos viendo ejemplos y puede que me inspiraran, no sé decir algun tipo de influencia definida, ni siquiera a la hora de dibujar puesto que es todo un estilo propio que voy desarrollando conforme evoluciono.
 
 
 
@@ -107,14 +107,12 @@ Cuando se nos planteó que el proyecto se iría realizando a lo largo de la asig
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
-
+- Todos los trabajos se ven a modo de galería, con las flechas el usuario puede moverse hacia delante o atrás a su gusto. A la primera galería que hicimos realmente no se le puede echar mucha cuenta, está ahí pero pensaba quitarla aunque no sabía si podía. Por otro lado para las demás busqué que tuvieran aunque fuera una animación simple para que quedara mejor visualmente.
+- Para añadir jugabilidiad decidí que lo mejor era usarlo con los extras, ya que veía más justificado hacerlo así. Por eso, decidí que el usuario debería encontrar determinada información para adivinar la respuesta correcta a un quizz que a su vez era la solución para develar el código secreto que bloqueaba los extras. Estos a su vez son un poco más diversos que las múltiples galerias del porfolio, siendo así atractivos y un aliciente para el usuario, un premio por adivinar el código.
+- Menús y elementos de navegación: gran parte del trabajo depende de todo esto. Hay tanto flechas de siguiente como botones y zonas calientes que llevan a las distintas escenas o que hacen aparecer información al pasar el cursor por encima.
+- Los vídeos que aparecen son del proceso de un par de obras, sin embargo actualmente no destino tanto tiempo a ello por lo que tuve que recurrir a videos antiguos.
+- En cuanto a la música quería que fuera suave para que no llamase demasiado la atención, cuando aparecen vídeos se puede parar en la misma pantalla y escogí varias dependiendo de la escena que ocurriese. Son todas de libre uso sacadas de youtube.
 
 
 ### Etapa 3: Problemas identificados
@@ -141,7 +139,8 @@ He cuidado mucho que todo funcionara como quería, la mayor parte de fallos que 
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  Toda es música libre de uso sacada de YouTube.
+* Musica:  Toda es música libre de uso sacada de YouTube. 
+           Efectos de sonido: http://www.sonidosmp3gratis.com/
 * Imágenes:  Imágenes propias, todo está dibujado o fotografiado por mí.
 * Tipografía: Arial Black y Candal (disponible en Google Fonts)
 
