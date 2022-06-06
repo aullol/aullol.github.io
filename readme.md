@@ -16,11 +16,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resumen** : Este proyecto se basa en la realización de un porfolio en el que el usuario puede interactuar con distintos elementos para poder escoger qué información ver a su gusto, pudiendo conocer también a mí como artista además de mis trabajos.
 
+
 **Estilo/género:**  Porfolio
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
+![logo](https://user-images.githubusercontent.com/106731746/172243207-2da8c847-1ee9-4c5c-860c-86187161b711.png)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
@@ -39,7 +41,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+
 
 # 2. Memoria del proyecto 
 
@@ -60,10 +62,11 @@ Galería: Es una escena que va a parte, me planteaba quitarla pues ni siquiera e
 
 ### 2.2. Esquema de navegación 
 
-![Ilustración_sin_título (1)](https://user-images.githubusercontent.com/106731746/172239892-641b8270-d888-4e8c-b7e2-ec524369134e.jpg)
 
 
 
+
+![esquema de navegación](https://user-images.githubusercontent.com/106731746/172243343-7cff5c0a-5d46-4a85-8fc7-2f42e0412824.jpg)
 
 
 
