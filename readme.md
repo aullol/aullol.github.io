@@ -47,6 +47,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
+![1654611463528](https://user-images.githubusercontent.com/106731746/172404766-acf0e788-48e5-4545-9f65-da6e14640420.jpg)
+![1654611463498](https://user-images.githubusercontent.com/106731746/172404779-70fe64b2-0334-44d2-b77f-55992f629dac.jpg)
 
 
 En la introducción aparece el logo y una opción para saltarla, tras ella llegamos directamente al menú principal. Ahí encontramos cuatro botones distintos: iniciar, extras, créditos y galería.
